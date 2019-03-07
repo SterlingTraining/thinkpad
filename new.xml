@@ -1,4 +1,5 @@
 <employee>
 	<name>John, Doe</name>
 	<address>1234 main st</address>
+	<dept>10</dept>
 </employee>
