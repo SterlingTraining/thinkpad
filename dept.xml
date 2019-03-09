@@ -1,4 +1,5 @@
 <dept>
 	<deptno>10</deptno>
 	<deptname>Accounting</deptname>
+	<dept-sal>75000</dept-sal>
 </dept>
