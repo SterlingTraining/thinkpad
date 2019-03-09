@@ -3,4 +3,5 @@
 	<deptname>Accounting</deptname>
 	<deptph>99-999-9999</deptph>
 	<dept-sal>95000</dept-sal>
+	<dept-alias>acct</dept-alias>
 </dept>
